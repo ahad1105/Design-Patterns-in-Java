@@ -1,0 +1,4 @@
+It comes under factory design pattern
+Object creation tales time and memory , hence to overcome this problem we create a prototype of already created object.
+One of the best method is clone method.
+It saves time and memory
